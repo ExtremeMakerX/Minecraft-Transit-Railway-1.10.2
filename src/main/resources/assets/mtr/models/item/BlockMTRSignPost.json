@@ -1,0 +1,6 @@
+{
+    "parent": "mtr:block/Pole",
+    "textures": {
+        "main": "mtr:blocks/Metal"
+    }
+}
